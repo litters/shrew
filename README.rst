@@ -5,6 +5,9 @@ shrew 0.1.0
 
 .. rubric:: A handy way to manage your bash environment across machines.
 
+.. image:: https://pypip.in/license/shrew/badge.png
+    :target: https://pypi.python.org/pypi/shrew/
+    :alt: Apache Software License
 .. image:: https://api.travis-ci.org/litters/shrew.png?branch=master
     :target: http://travis-ci.org/litters/shrew
 .. image:: https://coveralls.io/repos/litters/shrew/badge.png?branch=master
@@ -13,9 +16,6 @@ shrew 0.1.0
     :target: https://pypi.python.org/pypi/shrew/
 .. image:: https://pypip.in/d/shrew/badge.png
     :target: https://pypi.python.org/pypi/shrew/
-.. image:: https://pypip.in/wheel/shrew/badge.png
-    :target: https://pypi.python.org/pypi/shrew/
-    :alt: Wheel Status
 
 About
 =====
