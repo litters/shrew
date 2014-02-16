@@ -47,7 +47,7 @@ setup.py doc``. Generated documentation can be found in the
 Testing
 =======
 
-The easiest way to run the tests is to install `nose`_ (``pip
+The easiest way to run the tests is to install `nose`_ (``pip intall
 nose``) and run ``nosetests`` or ``python setup.py test`` in the root
 of the distribution. Tests are located in the ``tests/`` directory.
 
