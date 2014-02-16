@@ -18,14 +18,14 @@
 #
 
 from io import open
-import subprocess
-import sys
 
-from setuptools import find_packages, setup
+from setuptools import setup
 
 from shrew import __version__
 
 
+with open('README.rst', encoding='utf-8') as f:
+    long_description = f.read()
 with open('requirements.txt') as f:
     install_requires = f.read().splitlines()
 with open('test_requirements.txt') as f:
@@ -40,7 +40,7 @@ setup(
     author_email='adc@toolazydogs.com',
     description='A handy way to manage your bash environment across machines.',
     # don't ever depend on refcounting to close files anywhere else
-    long_description=open('README.rst', encoding='utf-8').read(),
+    long_description=long_description,
 
     packages=['shrew'],
     scripts=['bin/shrew'],
