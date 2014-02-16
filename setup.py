@@ -33,7 +33,7 @@ setup(
     license='Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)',
     author='Alan D. Cabrera',
     author_email='adc@toolazydogs.com',
-    description='Pure Python bindings for Apache Zookeeper.',
+    description='A handy way to manage your bash environment across machines.',
     # don't ever depend on refcounting to close files anywhere else
     long_description=open('README.rst', encoding='utf-8').read(),
     packages=find_packages(exclude=['tests']),
