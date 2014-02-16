@@ -1,0 +1,3 @@
+argparse
+brownie
+keyring==1.6.1
