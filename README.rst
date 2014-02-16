@@ -54,3 +54,9 @@ of the distribution. Tests are located in the ``tests/`` directory.
 .. _nose: http://somethingaboutorange.com/mrl/projects/nose/
 .. _pip: http://www.pip-installer.org/
 .. _sphinx: http://sphinx.pocoo.org/
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/litters/shrew/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
