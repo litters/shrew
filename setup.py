@@ -26,8 +26,10 @@ from setuptools import find_packages, setup
 from shrew import __version__
 
 
-install_requires = []
-tests_require = install_requires + ['coverage', 'mockito', 'nose']
+with open('requirements.txt') as f:
+    install_requires = f.read().splitlines()
+with open('test_requirements.txt') as f:
+    tests_require = install_requires + f.read().splitlines()
 
 setup(
     name='shrew',
