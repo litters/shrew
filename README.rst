@@ -1,3 +1,7 @@
+
+.. image:: https://s.gravatar.com/avatar/fd3b52d9a797f5cfa7e21f291391cf67?s=200
+    :alt: shrew
+
 =====
 shrew
 =====
