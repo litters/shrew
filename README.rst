@@ -1,5 +1,6 @@
 
 .. image:: https://s.gravatar.com/avatar/fd3b52d9a797f5cfa7e21f291391cf67?s=200
+    :target: https://github.com/litters/shrew/
     :alt: shrew
 
 =====
