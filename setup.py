@@ -19,7 +19,7 @@
 
 from io import open
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 from shrew import __version__
 
@@ -42,7 +42,7 @@ setup(
     # don't ever depend on refcounting to close files anywhere else
     long_description=long_description,
 
-    packages=['shrew'],
+    packages=find_packages(exclude='tests'),
     scripts=['bin/shrew'],
     zip_safe=False,
     platforms='any',

@@ -1,8 +1,9 @@
+include .gitignore
 include README.rst
 include LICENSE.txt
 include NOTICE.txt
 include MANIFEST.in
-recursive-include shrew *
 include requirements.txt
 include test_requirements.txt
+recursive-include docs *
 global-exclude *pyc *pyo
