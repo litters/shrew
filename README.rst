@@ -14,9 +14,9 @@ shrew 0.1.0
     :target: https://pypi.python.org/pypi/shrew
 .. image:: https://badge.fury.io/gh/litters%2Fshrew.svg
     :target: https://badge.fury.io/gh/litters%2Fshrew
-.. image:: https://api.travis-ci.org/litters/shrew.png?branch=master
+.. image:: https://travis-ci.org/litters/shrew.svg?branch=master
     :target: http://travis-ci.org/litters/shrew
-.. image:: https://coveralls.io/repos/litters/shrew/badge.png?branch=master
+.. image:: https://coveralls.io/repos/litters/shrew/badge.svg?branch=master
     :target: https://coveralls.io/r/litters/shrew
 .. image:: https://gemnasium.com/litters/shrew.svg
     :target: https://gemnasium.com/litters/shrew
