@@ -10,17 +10,18 @@ shrew 0.1.0
 
 .. rubric:: A handy way to manage your bash environment across machines.
 
-.. image:: https://pypip.in/license/shrew/badge.png
-    :target: https://pypi.python.org/pypi/shrew/
-    :alt: Apache Software License
+.. image:: https://img.shields.io/pypi/l/shrew.svg
+    :target: https://pypi.python.org/pypi/shrew
+.. image:: https://badge.fury.io/gh/litters%2Fshrew.svg
+    :target: https://badge.fury.io/gh/litters%2Fshrew
 .. image:: https://api.travis-ci.org/litters/shrew.png?branch=master
     :target: http://travis-ci.org/litters/shrew
 .. image:: https://coveralls.io/repos/litters/shrew/badge.png?branch=master
     :target: https://coveralls.io/r/litters/shrew
-.. image:: https://pypip.in/v/shrew/badge.png
-    :target: https://pypi.python.org/pypi/shrew/
-.. image:: https://pypip.in/d/shrew/badge.png
-    :target: https://pypi.python.org/pypi/shrew/
+.. image:: https://gemnasium.com/litters/shrew.svg
+    :target: https://gemnasium.com/litters/shrew
+.. image:: https://badge.fury.io/py/shrew.svg
+    :target: https://badge.fury.io/py/shrew
 
 About
 =====
